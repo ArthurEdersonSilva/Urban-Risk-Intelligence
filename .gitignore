@@ -1,0 +1,10 @@
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+mobile/web-build/
+backend/target/
+.env
+.env.*
+!.env.example
+*.log
+.vscode/
